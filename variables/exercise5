@@ -1,0 +1,3 @@
+In the first instance, x outputs 3. The second instance outputs an error
+because the puts x at the end is trying to access a variable created in an inner
+scope, therefore not accessible in an outer scope.  
