@@ -1,0 +1,5 @@
+yes to both
+
+hash = { :1 => [1, 2, 3] }
+
+array = [{:1 => "me", :2 => "you"}, {:dog => "rex", :cat => "willow"}]
